@@ -1,5 +1,7 @@
 # Medical-AI-Assistant
 
+<img width="790" height="415" alt="triaje" src="https://github.com/user-attachments/assets/45c7cf5f-369f-4b11-8fc4-9e595fc48418" />
+
 Sistema de triaje clínico basado en LangGraph + Ollama
 
 ---
